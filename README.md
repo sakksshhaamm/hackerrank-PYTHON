@@ -1,3 +1,2 @@
-# hackerrank
-
-MY HACKERRANK SOLUTIONS1
+# hackerrank-PYTHON
+MY HACKERRANK SOLUTIONS - Python 
